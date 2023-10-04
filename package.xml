@@ -20,21 +20,22 @@
 
   Currently re-usable API to other pkgs are not explicitly provided.
   </description>
-  <maintainer email="ablasdel@gmail.com">Aaron Blasdel</maintainer>
+
   <maintainer email="arne.hitzmann@gmail.com">Arne Hitzmann</maintainer>
   <maintainer email="namniart@gmail.com">Austin Hendrix</maintainer>
-
-  <license>BSD</license>
-
-  <url type="website">http://wiki.ros.org/rqt_robot_monitor</url>
-  <url type="repository">https://github.com/ros-visualization/rqt_robot_monitor</url>
-  <url type="bugtracker">https://github.com/ros-visualization/rqt_robot_monitor/issues</url>
 
   <author>Austin Hendrix</author>
   <author>Isaac Saito</author>
   <author>Ze'ev Klapow</author>
   <author>Kevin Watts</author>
   <author>Josh Faust</author>
+  <author email="ablasdel@gmail.com">Aaron Blasdel</author>
+
+  <license>BSD</license>
+
+  <url type="website">http://wiki.ros.org/rqt_robot_monitor</url>
+  <url type="repository">https://github.com/ros-visualization/rqt_robot_monitor</url>
+  <url type="bugtracker">https://github.com/ros-visualization/rqt_robot_monitor/issues</url>
 
   <buildtool_depend>catkin</buildtool_depend>
   <buildtool_depend condition="$ROS_PYTHON_VERSION == 2">python-setuptools</buildtool_depend>
